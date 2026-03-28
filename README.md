@@ -46,14 +46,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="150"/>
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
-
-<!-- Contribution snake — enable via GitHub Actions: https://github.com/Platane/snk -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
